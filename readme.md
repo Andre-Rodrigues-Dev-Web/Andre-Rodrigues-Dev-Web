@@ -12,7 +12,7 @@
   (async () => {
     await user.index({
       nome: 'André Laurentino Rodrigues',
-      idade: 27,
+      idade: 28,
       cidade: 'Bambuí, MG',
       hobbies: ['Tecnologis', 'Folclore', 'Mangá', 'Animes', 'Aprender coisas novas']
     });
