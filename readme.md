@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrelaurentinomg@gmail.com)](mailto:andrelaurentinomg@gmail.com)
 
 <img align="right" alt="poke-ghosts" height="250" src="https://tenor.com/bIE3C.gif">
-
+<div class="tenor-gif-embed" data-postid="22998246" data-share-method="host" data-aspect-ratio="1.75824" data-width="100%"><a href="https://tenor.com/view/dev-developer-dbz-goku-db-gif-22998246">Dev Developer GIF</a>from <a href="https://tenor.com/search/dev-gifs">Dev GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ```javascript
   (async () => {
