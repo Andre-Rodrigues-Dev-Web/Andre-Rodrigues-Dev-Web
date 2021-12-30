@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-laurentino-761855155/)](https://www.linkedin.com/in/andre-laurentino-761855155/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrelaurentinomg@gmail.com)](mailto:andrelaurentinomg@gmail.com)
 
-<img align="right" alt="poke-ghosts" height="250" src="https://tenor.com/view/dev-developer-dbz-goku-db-gif-22998246">
+<img align="right" alt="poke-ghosts" height="250" src="https://i0.wp.com/i.imgur.com/BzXviVM.gif">
 
 ```javascript
   (async () => {
